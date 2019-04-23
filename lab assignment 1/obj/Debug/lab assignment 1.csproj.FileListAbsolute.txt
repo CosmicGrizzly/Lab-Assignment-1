@@ -1,0 +1,7 @@
+C:\Users\Inari\Desktop\BOOTCAMP\files\lab assignment 1\lab assignment 1\bin\Debug\lab assignment 1.exe.config
+C:\Users\Inari\Desktop\BOOTCAMP\files\lab assignment 1\lab assignment 1\bin\Debug\lab assignment 1.exe
+C:\Users\Inari\Desktop\BOOTCAMP\files\lab assignment 1\lab assignment 1\bin\Debug\lab assignment 1.pdb
+C:\Users\Inari\Desktop\BOOTCAMP\files\lab assignment 1\lab assignment 1\obj\Debug\lab assignment 1.csprojAssemblyReference.cache
+C:\Users\Inari\Desktop\BOOTCAMP\files\lab assignment 1\lab assignment 1\obj\Debug\lab assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Inari\Desktop\BOOTCAMP\files\lab assignment 1\lab assignment 1\obj\Debug\lab assignment 1.exe
+C:\Users\Inari\Desktop\BOOTCAMP\files\lab assignment 1\lab assignment 1\obj\Debug\lab assignment 1.pdb
